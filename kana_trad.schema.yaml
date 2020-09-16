@@ -96,7 +96,7 @@ speller:
     - derive/^-$/_/
 
 translator:
-  dictionary: kanas
+  dictionary: kana_trad
   strict_spelling: true
 
 punctuator:
